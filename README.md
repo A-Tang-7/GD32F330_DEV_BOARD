@@ -1,0 +1,2 @@
+# GD32F330_DEV_BOARD
+用于学习GD32替代STM32的开发板
